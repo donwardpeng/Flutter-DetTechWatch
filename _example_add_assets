@@ -1,0 +1,12 @@
+Create a new assets folder.
+Drag and drop 3 images from Finder into assets folder
+Open pubspec.yaml file and uncomment.
+    #assets
+    #- images/a_dot_burr.jpeg
+
+Change images files to,
+- assets/GDGWindsor.png
+- assets/Google.png
+- assets/WindsorDevFest.png
+
+****Make sure tab indents are correct!****
