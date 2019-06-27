@@ -1,7 +1,7 @@
     return MaterialApp(
-        title: 'Windsor-Essex DevFest',
+        title: 'Detroit Tech Watch',
         home: Scaffold(
           appBar: AppBar(
-            title: Text('Windsor-Essex DevFest'),
+            title: Text('Detroit Tech Watch'),
           ),
         ));

@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Windsor-Essex DevFest',
+      title: 'Detroit Tech Watch',
     );
   }
 }

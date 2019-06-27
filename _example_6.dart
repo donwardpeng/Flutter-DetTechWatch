@@ -1,5 +1,5 @@
- appBar: AppBar(title:Text('Windsor-Essex DevFest'),
-        ),
-        body: Card(child: ,)
-        
-      )
+  home: Scaffold(
+   appBar: AppBar(title:Text('Detroit Tech Watch'),),
+     body: Card(child: ,));
+  }
+}
