@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
             body: Card(
               child: Column(
                 children: <Widget>[
-                  Image.asset('assets/WindsorDevFest.png'),
+                  Image.asset('assets/dtw.png'),
                   Padding(
                   padding: const EdgeInsets.all(8),
                 ),
