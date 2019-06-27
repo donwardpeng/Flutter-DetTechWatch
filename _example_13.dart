@@ -6,10 +6,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Windsor-Essex DevFest',
+        title: 'Detroit Tech Watch',
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Windsor-Essex DevFest'),
+              title: Text('Detroit Tech Watch'),
             ),
            body: Stack(
               children: <Widget>[
@@ -19,11 +19,11 @@ class MyApp extends StatelessWidget {
                       margin: EdgeInsets.all(8),
                       child: Column(
                         children: <Widget>[
-                          Image.asset('assets/WindsorDevFest.png'),
+                          Image.asset('assets/dtw.png'),
                           Padding(
                             padding: const EdgeInsets.all(8),
                           ),
-                          Text('Windsor-Essex DevFest')
+                          Text('Detroit Tech Watch')
                         ],
                       ),
                     ),

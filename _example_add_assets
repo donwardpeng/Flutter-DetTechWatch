@@ -5,8 +5,8 @@ Open pubspec.yaml file and uncomment.
     #- images/a_dot_burr.jpeg
 
 Change images files to,
-- assets/GDGWindsor.png
+- assets/GDGDetroit.png
 - assets/Google.png
-- assets/WindsorDevFest.png
+- assets/dtw.png
 
 ****Make sure tab indents are correct!****

@@ -8,11 +8,11 @@
                       margin: EdgeInsets.all(8),
                       child: Column(
                         children: <Widget>[
-                          Image.asset('assets/WindsorDevFest.png'),
+                          Image.asset('assets/dtw.png'),
                           Padding(
                             padding: const EdgeInsets.all(8),
                           ),
-                          Text('Windsor-Essex DevFest')
+                          Text('Detroit Tech Watch')
                         ],
                       ),
                     ),

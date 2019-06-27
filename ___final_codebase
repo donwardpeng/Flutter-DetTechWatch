@@ -13,8 +13,8 @@ class _MyAppState extends State<MyApp> {
 // Declare a set list of images to cycle through as a final
   final List<Image> _itemImages = [
     Image.asset('assets/Google.png'),
-    Image.asset('assets/WindsorDevFest.png'),
-    Image.asset('assets/GDGWindsor.png')
+    Image.asset('assets/dtw.png'),
+    Image.asset('assets/GDGDetroit.png')
   ];
 
   int _index = 0;
@@ -34,10 +34,10 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Windsor-Essex DevFest',
+        title: 'Detroit Tech Watch',
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Windsor-Essex DevFest'),
+              title: Text('Detroit Tech Watch'),
             ),
             body: Stack(
               children: <Widget>[
